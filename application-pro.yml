@@ -28,3 +28,9 @@ spring:
             max-concurrency: 20
             retry:
                enabled: true
+               
+management:
+   endpoints:
+      web:
+         exposure:
+            include: refresh
