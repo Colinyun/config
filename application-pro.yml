@@ -1,6 +1,6 @@
 server:
     port: 8089
-    name: application-client-6
+    name: application-client-7
     
 ############################## Rabbitmq配置 ########################################
 spring:
